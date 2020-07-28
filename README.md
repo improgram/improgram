@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Isaac Macedo from Brazil (🇧🇷).
+
+I have been working in the technology area for a few years
+I am currently developing web pages with html, css and bootstrap.
+Practicing javascript with react.
+Strengthening my knowledge in object orientation to become a frontend developer
+
+Would you like to find me?
+
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaacmacedo)](https://www.linkedin.com/in/isaacmacedo)
 <!--
 **improgram/improgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
