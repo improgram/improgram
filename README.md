@@ -9,7 +9,11 @@ Strengthening my knowledge in object orientation to become a frontend developer
 
 Would you like to find me?
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaacmacedo)](https://www.linkedin.com/in/isaacmacedo)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaacmacedo)]
+
+(https://www.linkedin.com/in/isaacmacedo)
+
+
 <!--
 **improgram/improgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
