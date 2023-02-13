@@ -18,7 +18,7 @@ https://github.com/improgram/economia
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 https://github.com/improgram/casadocodigo
 
-![About.me](https://img.shields.io/badge/-About.me-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![About.me](https://img.shields.io/badge/-About.me-000000?style=for-the-badge&logo=Aboutme&logoColor=white)
 https://about.me/isaacmacedo
 
 <!--
