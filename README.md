@@ -9,9 +9,15 @@ Strengthening my knowledge in object orientation to become a frontend developer
 
 Would you like to find me?
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaacmacedo)]
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaacmacedo)
 
 (https://www.linkedin.com/in/isaacmacedo)
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+https://github.com/improgram/economia
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+https://github.com/improgram/casadocodigo
 
 
 <!--
