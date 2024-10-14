@@ -70,4 +70,5 @@ https://www.linkedin.com/in/isaacmacedo
 
 
 ![About.me](https://img.shields.io/badge/-About.me-000000?style=for-the-badge&logo=Aboutme&logoColor=white&link=https://about.me/isaacmacedo)
+https://about.me/isaacmacedo
 
