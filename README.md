@@ -7,14 +7,8 @@ I am currently developing web pages with html, css and bootstrap.
 Practicing javascript with react.
 Strengthening my knowledge in object orientation to become a frontend developer
 
-
-Would you like to find me?
-
-
-
-
-🛠️ Skills
 ____________________________________________________________________________________________________________________________________________________________________
+🛠️ Skills
 
 Languages
 
@@ -34,19 +28,21 @@ Front-End Development
 
 ![REACT](https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
 
-
-
-🔗 Links
 __________________________________________________________________________________________________________________________________________________________________
+🔗 Links
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaacmacedo)
+![Linkedin Badge]
+(https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaacmacedo)
 https://www.linkedin.com/in/isaacmacedo
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![github]
+(https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 https://improgram.github.io/economia/
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![github]
+(https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 https://improgram.github.io/casadocodigo/
 
-![About.me](https://img.shields.io/badge/-About.me-000000?style=for-the-badge&logo=Aboutme&logoColor=white)
+![About.me]
+(https://img.shields.io/badge/-About.me-000000?style=for-the-badge&logo=Aboutme&logoColor=white)
 https://about.me/isaacmacedo
